@@ -20,14 +20,9 @@ This project became my **gateway into web development**—where logic met creati
 ---
 
 ## 🎯 Gameplay
-1. Press any key to start  
-2. Watch the sequence of colors  
-3. Repeat the sequence by clicking the buttons  
-4. Each new level adds one more color  
-5. Game ends when you make a mistake
 
 <p align="center">
-  <img src="assets/game_flow" alt="Simon Game Workflow" width="800"/>
+  <img src="assets/game_flow.png" alt="Simon Game Workflow" width="800"/>
 </p>
 
 ---
