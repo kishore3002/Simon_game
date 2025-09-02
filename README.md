@@ -1,4 +1,4 @@
-# Simon Says Game 🎮
+# Simon_Game 🎮
 
 A classic memory game built while learning JavaScript fundamentals and DOM manipulation. This project helped me understand event handling, arrays, and creating interactive web experiences.
 
@@ -20,7 +20,7 @@ Simple memory game where you:
 
 ## 📁 Project Structure
 ```
-Simon Game Challenge Starting../
+Simon_game/
 ├── index.html          # Game interface
 ├── styles.css          # Styling and animations
 ├── game.js            # Game logic
@@ -80,12 +80,12 @@ gamePattern.push(randomChosenColour);
 
 **1. Clone the repository:**
 ```bash
-git clone https://github.com/yourusername/simon-says-game.git
+git clone https://github.com/kishore3002/Simon_game.git
 ```
 
 **2. Navigate to the project folder:**
 ```bash
-cd simon-says-game
+cd Simon_game
 ```
 
 **3. Open the game:**
@@ -95,9 +95,6 @@ open index.html
 
 # For Windows users:
 start index.html
-
-# For Linux users:
-xdg-open index.html
 ```
 
 **4. Start playing!**
